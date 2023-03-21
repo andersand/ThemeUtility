@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "ThemeUtility wrong args": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\47911\\source\\repos\\ThemeUtility\\bin\\Debug\\net6.0\\ThemeUtility.exe",
+      "commandLineArgs": "N N"
+    },
+    "ThemeUtility toggle": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\47911\\source\\repos\\ThemeUtility\\bin\\Debug\\net6.0\\ThemeUtility.exe",
+      "commandLineArgs": "T T"
+    }
+  }
+}
